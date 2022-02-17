@@ -1,3 +1,0 @@
-Data filter=lfs diff=lfs merge=lfs -text
-*.csv filter=lfs diff=lfs merge=lfs -text
-ten_megabyte_file.txt filter=lfs diff=lfs merge=lfs -text
